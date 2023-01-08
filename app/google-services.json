@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1065978131718",
+    "project_id": "magicreader-39cc0",
+    "storage_bucket": "magicreader-39cc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065978131718:android:039a512d78af939ad39a87",
+        "android_client_info": {
+          "package_name": "com.aldisyarif.magicreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065978131718-1osp6n1rlk5pbfj20u4hot7iide9re5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aldisyarif.magicreader",
+            "certificate_hash": "04c17fc85b4b4500bd6693e6c94142039e4e8627"
+          }
+        },
+        {
+          "client_id": "1065978131718-ts3sgt93gvkpl35na847ibd70sft1du9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFZdcMPDW04PzL5YNafhPS-zRKV4ObZjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065978131718-ts3sgt93gvkpl35na847ibd70sft1du9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

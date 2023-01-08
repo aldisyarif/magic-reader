@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.aldisyarif.magicreader.ui.home.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_detailTextFragment"
+            app:destination="@id/detailTextFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_textsFragment"
+            app:destination="@id/textsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/detailTextFragment"
+        android:name="com.aldisyarif.magicreader.ui.detail.DetailTextFragment"
+        android:label="fragment_detail_text"
+        tools:layout="@layout/fragment_detail_text" />
+    <fragment
+        android:id="@+id/textsFragment"
+        android:name="com.aldisyarif.magicreader.ui.texts.TextsFragment"
+        android:label="fragment_texts"
+        tools:layout="@layout/fragment_texts" >
+        <action
+            android:id="@+id/action_textsFragment_to_detailTextFragment"
+            app:destination="@id/detailTextFragment" />
+    </fragment>
+
+</navigation>

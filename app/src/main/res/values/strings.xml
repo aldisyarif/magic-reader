@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MagicReader</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">back</string>
+    <string name="update">UPDATE</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="delete">Delete</string>
+    <string name="list_note">list note</string>
+    <string name="cari_teks_di_gambar">Cari Teks di Gambar</string>
+    <string name="pilih_sample_gambar_atau_dari_galery">Pilih Sample Gambar atau dari Galery</string>
+    <string name="gallery">Gallery</string>
+    <string name="text_not_found">Teks Tidak Terdeteksi, Silahkan pilih gambar Lagi</string>
+    <string name="choose_image">Pilih Gambar</string>
+    <string name="text_detected">Teks Berhasil terdeteksi</string>
+    <string name="message_success">Anda dapat menyimpan dan mengedit Text berikut</string>
+    <string name="save">SIMPAN</string>
+    <string name="dont_save">TIDAK</string>
+    <string name="save_successfully">Teks Berhasil disimpan</string>
+    <string name="deleted_successfully">Text Berhasil dihapus</string>
+    <string name="updated_successfully">Text Berhasil di update</string>
+    <string name="yes">YA</string>
+    <string name="no">TIDAK</string>
+    <string name="delete_this_text">Hapus Teks Ini?</string>
+    <string name="save_this_text">Simpan Perubahan Text?</string>
+    <string name="message_copied">Text copied to Clipboard</string>
+</resources>
