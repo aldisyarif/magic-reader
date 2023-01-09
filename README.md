@@ -1,5 +1,5 @@
 # magic reader
-text recognized from image using Google Cloud
+text recognized from image using Google Cloud and firebase for saving text.
 
 ## Screenshots
 
